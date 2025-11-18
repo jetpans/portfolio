@@ -35,6 +35,17 @@ An optimization challenge in the context of CMC-FER-2024 Competition where we ha
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/jetpans/portfolio/blob/master/Images/cmc2025.png"> **[CMC-FER-2025 Cover layout optimization](https://github.com/jetpans/cmc25)**
+
+An optimization challenge in the context of CMC-FER-2025 Competition where we had to optimize the layout of pieces to cover the holes in a way that minimizes travel time and circumfrance of the pieces. For this purpose, we implemented a genetic algorithm using the previously mentioned generic framework for a part of the task. We also used simulated annealing for solving a small TSP and other algorithmic components for solving this complicated task. In the end our scored secured us the 2nd place.
+#
+
+<img align="left" width="250" height="150" src="https://github.com/jetpans/portfolio/blob/master/Images/XQZite.png"> **[XQZite](https://xqz.jetpans.com)**
+
+Full-Stack passion project where I implemented a full stack, interactive quiz app based in a chat environment. I used Flask for backend, PostgreSQL for database and a React frontend. To round it all up I acquired my own domain and a VPS to host my page and deployed it using Docker and nginx.
+
+#
+
 <img align="left" width="250" height="150" src="https://github.com/jetpans/portfolio/blob/master/Images/ConnectiNET.png"> **[ConnectiNET](https://github.com/jetpans/ConnectiNET-kraljevi)**
 
 Full-Stack web team project in the context of university where we developed a page for promoting and rating events. Technologies which we used are
