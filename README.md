@@ -66,5 +66,5 @@ Flask(Python), PostgreSQL, Firebase and React. I mostly contributed working on b
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Statistics, Explainable AI, Big Data Analytics, Optimizaton Algorithms, Desing Patterns, Databases, Backend Development
 - **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, PyTorch, Tensorflow, Matplotlib, DEAP), Java, R, SQL, C++
-- **Tools**: Postgres, Git, PySpark, Jira, Flask, MS Excel, GoogleAPI
+- **Tools**: Docker, Kubernetes, CI/CD, Postgres, Git, Jira, Flask, MS Excel, GoogleAPI
 
